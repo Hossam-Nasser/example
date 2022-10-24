@@ -17,11 +17,11 @@ I'm Hossam, Flutter Developer.
 
 
 ## Contact
-- [hossamnasser100@gamil.com](mailto:hossamnasser100@gamil.com)
-- [HossamNasser](https://www.linkedin.com/in/hossam-nasser-830202204/) on LinkedIn
+- [example@gamil.com](mailto:link)
+- [name](link) on LinkedIn
 
 
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HhmedHesham&show_icons=true&theme=radical" alt="Hossam Nasser" />
+  <img src="https://github-readme-stats.vercel.app/api?username={name}m&show_icons=true&theme=radical" alt="name" />
 </h1>
